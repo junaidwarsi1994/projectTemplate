@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="fontStyles">
+        <attr name="fontStyle" format="string" localization="suggested" />
+    </declare-styleable>
+
+
+        <declare-styleable name="CalendarView">
+            <attr name="dateFormat" format="string"/>
+        </declare-styleable>
+</resources>
